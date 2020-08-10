@@ -1,0 +1,47 @@
+container2{
+
+    background-color: red;
+}
+
+
+.titrejeu {
+    text-align: center;
+    background-color: beige;
+    border-style: solid;
+    padding: 0.9em
+}
+
+.defi{
+    border-bottom: #0069d9;
+    padding: 1em;
+    background-color: beige;
+    height: 20em;
+
+}
+
+.col-auto{
+    padding: 5em;
+    left: auto;
+}
+
+
+.form-row{
+    justify-content: center;
+}
+
+.body{
+    margin-top: 2%;
+}
+
+.table{
+
+    width: 100%;
+    background-color: red;
+}
+
+
+.alert-success
+
+.col{
+    
+}
